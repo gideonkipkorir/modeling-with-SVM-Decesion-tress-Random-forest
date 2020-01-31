@@ -1,4 +1,4 @@
-# Modeling-with-SVM-Decesion-tress-Random-forest
+# Modeling-with-SVM-Decesion-trees-Random-forest
 ## Problem statement:
 Build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroid.
 ### Part 1: Decision trees:
@@ -18,3 +18,23 @@ Build a model that determines whether or not the patient's symptoms indicate tha
 Hint: You may want to use decision trees to give you the most preferable features you can use. but also keep in mind that those features might not be suitable for SVM. It might be a good idea to graph them first.
 
 -  After getting your best performing kernel, use this kernel together with your tuned parameters and repeat the prediction but this time using additional features. Compare the model you've just created with the 2-features version. 
+**Dataset Columns**
+
+*	Age
+*	Sex
+*	on_thyroxine
+*	query_on_thyroxine
+*	on_antithyroid_medicationthyroid_surgery
+*	query_hypothyroid
+*	query_hyperthyroid
+*	pregnant
+*	sick
+*	tumor
+*	lithium
+*	goitre
+*	TSH_measured
+*	TSH
+*	T3_measured
+*	T3
+*	TT4_measured
+*	TT4
