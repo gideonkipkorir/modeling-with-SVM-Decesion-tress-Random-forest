@@ -30,11 +30,11 @@ Hint: You may want to use decision trees to give you the most preferable feature
 *	pregnant
 *	sick
 *	tumor
-*	lithium
-*	goitre
-*	TSH_measured
+*	lithium:is concentrated by the thyroid and inhibits thyroidal iodine uptake. It also inhibits iodotyrosine coupling, alters thyroglobulin structure, and inhibits thyroid hormone secretion
+*	goitre:a swelling of the neck resulting from enlargement of the thyroid gland.
+*	TSH_measured:A TSH test is done to find out if your thyroid gland is working the way it should. ... If untreated, a thyroid disorder can cause health problems. TSH stands for “thyroid stimulating hormone” and the test measures how much of this hormone is in your blood
 *	TSH
 *	T3_measured
-*	T3
-*	TT4_measured
+*	T3 : A T3 test is performed as part of an evaluation of thyroid function. It measures the blood level of the hormone T3 (triiodothyronine)
+*	TT4_measured:This test measures the level of the hormone thyroxine (T4) in your blood. The hormone is made by your thyroid gland
 *	TT4
