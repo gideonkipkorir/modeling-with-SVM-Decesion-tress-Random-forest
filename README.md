@@ -19,7 +19,7 @@ Hint: You may want to use decision trees to give you the most preferable feature
 
 -  After getting your best performing kernel, use this kernel together with your tuned parameters and repeat the prediction but this time using additional features. Compare the model you've just created with the 2-features version. 
 **Dataset Columns**
-
+* status: whether someone tests negative or positive for hypothyroid.
 *	Age
 *	Sex
 *	on_thyroxine
